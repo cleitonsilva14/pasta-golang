@@ -1,0 +1,353 @@
+2023/10/07 11:36:42 main.go:16: log file created
+2023/10/07 11:36:55 main.go:16: log file created
+2023/10/07 11:36:55 main.go:16: log file created
+2023/10/07 11:36:56 main.go:16: log file created
+2023/10/07 11:38:44 /home/cleiton/Documentos/golang/log-app/main.go:16: log file created
+2023/10/07 11:38:59 main.go:16: log file created
+2023/10/07 11:39:02 main.go:16: log file created
+2023/10/07 11:39:03 main.go:16: log file created
+2023/10/07 11:39:06 main.go:16: log file created
+2023/10/07 11:47:17 main.go:21: log file created
+2023/10/07 11:47:17 main.go:22: Connected on localhost:%!s(int=1433)
+2023/10/07 11:47:33 main.go:21: log file created
+2023/10/07 11:47:33 main.go:22: Connected on localhost:1433
+2023/10/07 11:48:06 main.go:22: log file created
+2023/10/07 11:48:06 main.go:23: Connected on localhost:1433
+2023/10/07 11:49:17 main.go:22: log file created
+2023/10/07 11:49:17 main.go:23: Connected on localhost:1433
+2023/10/07 11:49:21 main.go:22: log file created
+2023/10/07 11:49:21 main.go:23: Connected on localhost:1433
+2023/10/07 11:49:29 main.go:22: log file created
+2023/10/07 11:49:29 main.go:23: Connected on localhost:1433
+2023/10/07 11:49:29 main.go:22: log file created
+2023/10/07 11:49:29 main.go:23: Connected on localhost:1433
+2023/10/07 11:49:30 main.go:22: log file created
+2023/10/07 11:49:30 main.go:23: Connected on localhost:1433
+2023/10/07 11:49:31 main.go:22: log file created
+2023/10/07 11:49:31 main.go:23: Connected on localhost:1433
+2023/10/07 11:49:31 main.go:22: log file created
+2023/10/07 11:49:31 main.go:23: Connected on localhost:1433
+2023/10/07 11:49:39 main.go:22: log file created
+2023/10/07 11:49:39 main.go:23: Connected on localhost:1433
+2023/10/07 11:49:40 main.go:22: log file created
+2023/10/07 11:49:40 main.go:23: Connected on localhost:1433
+2023/10/07 11:49:44 main.go:22: log file created
+2023/10/07 11:49:44 main.go:23: Connected on localhost:1433
+2023/10/07 11:49:51 main.go:22: log file created
+2023/10/07 11:49:51 main.go:23: Connected on localhost:1433
+2023/10/07 11:49:53 main.go:22: log file created
+2023/10/07 11:49:53 main.go:23: Connected on localhost:1433
+2023/10/07 11:49:54 main.go:22: log file created
+2023/10/07 11:49:54 main.go:23: Connected on localhost:1433
+2023/10/07 11:49:59 main.go:22: log file created
+2023/10/07 11:49:59 main.go:23: Connected on localhost:1433
+2023/10/07 11:50:00 main.go:22: log file created
+2023/10/07 11:50:00 main.go:23: Connected on localhost:1433
+2023/10/07 11:51:08 main.go:22: log file created
+2023/10/07 11:51:08 main.go:23: Connected on SERVER localhost:1433
+2023/10/07 11:51:09 main.go:22: log file created
+2023/10/07 11:51:09 main.go:23: Connected on SERVER localhost:1433
+2023/10/07 11:51:41 main.go:22: log file created
+2023/10/07 11:51:41 main.go:23: Connected on SERVER sqlserver//localhost:1433
+2023/10/07 11:51:47 main.go:22: log file created
+2023/10/07 11:51:47 main.go:23: Connected on SERVER sqlserver://localhost:1433
+2023/10/07 11:57:41 main.go:27: log file created
+2023/10/07 11:57:41 main.go:28: Connected on SERVER sqlserver://localhost:1433
+2023/10/07 11:57:41 main.go:29: 2023
+2023/10/07 11:57:42 main.go:27: log file created
+2023/10/07 11:57:42 main.go:28: Connected on SERVER sqlserver://localhost:1433
+2023/10/07 11:57:42 main.go:29: 2023
+2023/10/07 11:57:43 main.go:27: log file created
+2023/10/07 11:57:43 main.go:28: Connected on SERVER sqlserver://localhost:1433
+2023/10/07 11:57:43 main.go:29: 2023
+2023/10/07 11:59:33 main.go:31: log file created
+2023/10/07 11:59:33 main.go:32: Connected on SERVER sqlserver://localhost:1433
+2023/10/07 11:59:33 main.go:33: 2023 October 7
+2023/10/07 11:59:39 main.go:31: log file created
+2023/10/07 11:59:39 main.go:32: Connected on SERVER sqlserver://localhost:1433
+2023/10/07 11:59:39 main.go:33: 2023 October 7
+2023/10/07 11:59:40 main.go:31: log file created
+2023/10/07 11:59:40 main.go:32: Connected on SERVER sqlserver://localhost:1433
+2023/10/07 11:59:40 main.go:33: 2023 October 7
+2023/10/07 11:59:41 main.go:31: log file created
+2023/10/07 11:59:41 main.go:32: Connected on SERVER sqlserver://localhost:1433
+2023/10/07 11:59:41 main.go:33: 2023 October 7
+2023/10/07 12:00:23 main.go:31: log file created
+2023/10/07 12:00:23 main.go:32: Connected on SERVER sqlserver://localhost:1433
+2023/10/07 12:00:23 main.go:33: 2023 September 7
+2023/10/07 12:00:26 main.go:31: log file created
+2023/10/07 12:00:26 main.go:32: Connected on SERVER sqlserver://localhost:1433
+2023/10/07 12:00:26 main.go:33: 2023 September 7
+2023/10/07 12:00:26 main.go:31: log file created
+2023/10/07 12:00:26 main.go:32: Connected on SERVER sqlserver://localhost:1433
+2023/10/07 12:00:26 main.go:33: 2023 September 7
+2023/10/07 12:00:27 main.go:31: log file created
+2023/10/07 12:00:27 main.go:32: Connected on SERVER sqlserver://localhost:1433
+2023/10/07 12:00:27 main.go:33: 2023 September 7
+2023/10/07 12:00:28 main.go:31: log file created
+2023/10/07 12:00:28 main.go:32: Connected on SERVER sqlserver://localhost:1433
+2023/10/07 12:00:28 main.go:33: 2023 September 7
+2023/10/07 12:00:28 main.go:31: log file created
+2023/10/07 12:00:28 main.go:32: Connected on SERVER sqlserver://localhost:1433
+2023/10/07 12:00:28 main.go:33: 2023 September 7
+2023/10/07 12:00:28 main.go:31: log file created
+2023/10/07 12:00:28 main.go:32: Connected on SERVER sqlserver://localhost:1433
+2023/10/07 12:00:28 main.go:33: 2023 September 7
+2023/10/07 12:00:28 main.go:31: log file created
+2023/10/07 12:00:28 main.go:32: Connected on SERVER sqlserver://localhost:1433
+2023/10/07 12:00:28 main.go:33: 2023 September 7
+2023/10/07 12:00:29 main.go:31: log file created
+2023/10/07 12:00:29 main.go:32: Connected on SERVER sqlserver://localhost:1433
+2023/10/07 12:00:29 main.go:33: 2023 September 7
+2023/10/07 12:02:02 main.go:31: log file created
+2023/10/07 12:02:02 main.go:32: Connected on SERVER sqlserver://localhost:1433
+2023/10/07 12:02:02 main.go:34: October
+2023/10/07 12:02:02 main.go:34: October
+2023/10/07 12:02:02 main.go:34: October
+2023/10/07 12:02:02 main.go:34: October
+2023/10/07 12:02:02 main.go:34: October
+2023/10/07 12:02:02 main.go:34: October
+2023/10/07 12:02:02 main.go:34: October
+2023/10/07 12:02:02 main.go:34: October
+2023/10/07 12:02:02 main.go:34: October
+2023/10/07 12:02:02 main.go:34: October
+2023/10/07 12:02:02 main.go:34: October
+2023/10/07 12:02:02 main.go:34: October
+2023/10/07 12:02:19 main.go:31: log file created
+2023/10/07 12:02:19 main.go:32: Connected on SERVER sqlserver://localhost:1433
+2023/10/07 12:02:19 main.go:34: %!Month(18446744073709551606)
+2023/10/07 12:02:19 main.go:34: %!Month(18446744073709551606)
+2023/10/07 12:02:19 main.go:34: %!Month(18446744073709551606)
+2023/10/07 12:02:19 main.go:34: %!Month(18446744073709551606)
+2023/10/07 12:02:19 main.go:34: %!Month(18446744073709551606)
+2023/10/07 12:02:19 main.go:34: %!Month(18446744073709551606)
+2023/10/07 12:02:19 main.go:34: %!Month(18446744073709551606)
+2023/10/07 12:02:19 main.go:34: %!Month(18446744073709551606)
+2023/10/07 12:02:19 main.go:34: %!Month(18446744073709551606)
+2023/10/07 12:02:19 main.go:34: %!Month(18446744073709551606)
+2023/10/07 12:02:19 main.go:34: %!Month(18446744073709551606)
+2023/10/07 12:02:19 main.go:34: %!Month(18446744073709551606)
+2023/10/07 12:02:25 main.go:31: log file created
+2023/10/07 12:02:25 main.go:32: Connected on SERVER sqlserver://localhost:1433
+2023/10/07 12:02:25 main.go:34: September
+2023/10/07 12:02:25 main.go:34: September
+2023/10/07 12:02:25 main.go:34: September
+2023/10/07 12:02:25 main.go:34: September
+2023/10/07 12:02:25 main.go:34: September
+2023/10/07 12:02:25 main.go:34: September
+2023/10/07 12:02:25 main.go:34: September
+2023/10/07 12:02:25 main.go:34: September
+2023/10/07 12:02:25 main.go:34: September
+2023/10/07 12:02:25 main.go:34: September
+2023/10/07 12:02:25 main.go:34: September
+2023/10/07 12:02:25 main.go:34: September
+2023/10/07 12:02:27 main.go:31: log file created
+2023/10/07 12:02:27 main.go:32: Connected on SERVER sqlserver://localhost:1433
+2023/10/07 12:02:27 main.go:34: September
+2023/10/07 12:02:27 main.go:34: September
+2023/10/07 12:02:27 main.go:34: September
+2023/10/07 12:02:27 main.go:34: September
+2023/10/07 12:02:27 main.go:34: September
+2023/10/07 12:02:27 main.go:34: September
+2023/10/07 12:02:27 main.go:34: September
+2023/10/07 12:02:27 main.go:34: September
+2023/10/07 12:02:27 main.go:34: September
+2023/10/07 12:02:27 main.go:34: September
+2023/10/07 12:02:27 main.go:34: September
+2023/10/07 12:02:27 main.go:34: September
+2023/10/07 12:02:27 main.go:31: log file created
+2023/10/07 12:02:27 main.go:32: Connected on SERVER sqlserver://localhost:1433
+2023/10/07 12:02:27 main.go:34: September
+2023/10/07 12:02:27 main.go:34: September
+2023/10/07 12:02:27 main.go:34: September
+2023/10/07 12:02:27 main.go:34: September
+2023/10/07 12:02:27 main.go:34: September
+2023/10/07 12:02:27 main.go:34: September
+2023/10/07 12:02:27 main.go:34: September
+2023/10/07 12:02:27 main.go:34: September
+2023/10/07 12:02:27 main.go:34: September
+2023/10/07 12:02:27 main.go:34: September
+2023/10/07 12:02:27 main.go:34: September
+2023/10/07 12:02:27 main.go:34: September
+2023/10/07 12:03:17 main.go:31: log file created
+2023/10/07 12:03:17 main.go:32: Connected on SERVER sqlserver://localhost:1433
+2023/10/07 12:03:17 main.go:34: October
+2023/10/07 12:03:17 main.go:34: October
+2023/10/07 12:03:17 main.go:34: October
+2023/10/07 12:03:17 main.go:34: October
+2023/10/07 12:03:17 main.go:34: October
+2023/10/07 12:03:17 main.go:34: October
+2023/10/07 12:03:17 main.go:34: October
+2023/10/07 12:03:17 main.go:34: October
+2023/10/07 12:03:17 main.go:34: October
+2023/10/07 12:03:17 main.go:34: October
+2023/10/07 12:03:17 main.go:34: October
+2023/10/07 12:03:17 main.go:34: October
+2023/10/07 12:03:18 main.go:31: log file created
+2023/10/07 12:03:18 main.go:32: Connected on SERVER sqlserver://localhost:1433
+2023/10/07 12:03:18 main.go:34: October
+2023/10/07 12:03:18 main.go:34: October
+2023/10/07 12:03:18 main.go:34: October
+2023/10/07 12:03:18 main.go:34: October
+2023/10/07 12:03:18 main.go:34: October
+2023/10/07 12:03:18 main.go:34: October
+2023/10/07 12:03:18 main.go:34: October
+2023/10/07 12:03:18 main.go:34: October
+2023/10/07 12:03:18 main.go:34: October
+2023/10/07 12:03:18 main.go:34: October
+2023/10/07 12:03:18 main.go:34: October
+2023/10/07 12:03:18 main.go:34: October
+2023/10/07 12:03:23 main.go:31: log file created
+2023/10/07 12:03:23 main.go:32: Connected on SERVER sqlserver://localhost:1433
+2023/10/07 12:03:23 main.go:34: %!Month(0)
+2023/10/07 12:03:23 main.go:34: %!Month(0)
+2023/10/07 12:03:23 main.go:34: %!Month(0)
+2023/10/07 12:03:23 main.go:34: %!Month(0)
+2023/10/07 12:03:23 main.go:34: %!Month(0)
+2023/10/07 12:03:23 main.go:34: %!Month(0)
+2023/10/07 12:03:23 main.go:34: %!Month(0)
+2023/10/07 12:03:23 main.go:34: %!Month(0)
+2023/10/07 12:03:23 main.go:34: %!Month(0)
+2023/10/07 12:03:23 main.go:34: %!Month(0)
+2023/10/07 12:03:23 main.go:34: %!Month(0)
+2023/10/07 12:03:23 main.go:34: %!Month(0)
+2023/10/07 12:03:24 main.go:31: log file created
+2023/10/07 12:03:24 main.go:32: Connected on SERVER sqlserver://localhost:1433
+2023/10/07 12:03:24 main.go:34: %!Month(0)
+2023/10/07 12:03:24 main.go:34: %!Month(0)
+2023/10/07 12:03:24 main.go:34: %!Month(0)
+2023/10/07 12:03:24 main.go:34: %!Month(0)
+2023/10/07 12:03:24 main.go:34: %!Month(0)
+2023/10/07 12:03:24 main.go:34: %!Month(0)
+2023/10/07 12:03:24 main.go:34: %!Month(0)
+2023/10/07 12:03:24 main.go:34: %!Month(0)
+2023/10/07 12:03:24 main.go:34: %!Month(0)
+2023/10/07 12:03:24 main.go:34: %!Month(0)
+2023/10/07 12:03:24 main.go:34: %!Month(0)
+2023/10/07 12:03:24 main.go:34: %!Month(0)
+2023/10/07 12:03:30 main.go:31: log file created
+2023/10/07 12:03:30 main.go:32: Connected on SERVER sqlserver://localhost:1433
+2023/10/07 12:03:30 main.go:34: January
+2023/10/07 12:03:30 main.go:34: January
+2023/10/07 12:03:30 main.go:34: January
+2023/10/07 12:03:30 main.go:34: January
+2023/10/07 12:03:30 main.go:34: January
+2023/10/07 12:03:30 main.go:34: January
+2023/10/07 12:03:30 main.go:34: January
+2023/10/07 12:03:30 main.go:34: January
+2023/10/07 12:03:30 main.go:34: January
+2023/10/07 12:03:30 main.go:34: January
+2023/10/07 12:03:30 main.go:34: January
+2023/10/07 12:03:30 main.go:34: January
+2023/10/07 12:03:31 main.go:31: log file created
+2023/10/07 12:03:31 main.go:32: Connected on SERVER sqlserver://localhost:1433
+2023/10/07 12:03:31 main.go:34: January
+2023/10/07 12:03:31 main.go:34: January
+2023/10/07 12:03:31 main.go:34: January
+2023/10/07 12:03:31 main.go:34: January
+2023/10/07 12:03:31 main.go:34: January
+2023/10/07 12:03:31 main.go:34: January
+2023/10/07 12:03:31 main.go:34: January
+2023/10/07 12:03:31 main.go:34: January
+2023/10/07 12:03:31 main.go:34: January
+2023/10/07 12:03:31 main.go:34: January
+2023/10/07 12:03:31 main.go:34: January
+2023/10/07 12:03:31 main.go:34: January
+2023/10/07 12:03:31 main.go:31: log file created
+2023/10/07 12:03:31 main.go:32: Connected on SERVER sqlserver://localhost:1433
+2023/10/07 12:03:31 main.go:34: January
+2023/10/07 12:03:31 main.go:34: January
+2023/10/07 12:03:31 main.go:34: January
+2023/10/07 12:03:31 main.go:34: January
+2023/10/07 12:03:31 main.go:34: January
+2023/10/07 12:03:31 main.go:34: January
+2023/10/07 12:03:31 main.go:34: January
+2023/10/07 12:03:31 main.go:34: January
+2023/10/07 12:03:31 main.go:34: January
+2023/10/07 12:03:31 main.go:34: January
+2023/10/07 12:03:31 main.go:34: January
+2023/10/07 12:03:31 main.go:34: January
+2023/10/07 12:03:32 main.go:31: log file created
+2023/10/07 12:03:32 main.go:32: Connected on SERVER sqlserver://localhost:1433
+2023/10/07 12:03:32 main.go:34: January
+2023/10/07 12:03:32 main.go:34: January
+2023/10/07 12:03:32 main.go:34: January
+2023/10/07 12:03:32 main.go:34: January
+2023/10/07 12:03:32 main.go:34: January
+2023/10/07 12:03:32 main.go:34: January
+2023/10/07 12:03:32 main.go:34: January
+2023/10/07 12:03:32 main.go:34: January
+2023/10/07 12:03:32 main.go:34: January
+2023/10/07 12:03:32 main.go:34: January
+2023/10/07 12:03:32 main.go:34: January
+2023/10/07 12:03:32 main.go:34: January
+2023/10/07 12:03:32 main.go:31: log file created
+2023/10/07 12:03:32 main.go:32: Connected on SERVER sqlserver://localhost:1433
+2023/10/07 12:03:32 main.go:34: January
+2023/10/07 12:03:32 main.go:34: January
+2023/10/07 12:03:32 main.go:34: January
+2023/10/07 12:03:32 main.go:34: January
+2023/10/07 12:03:32 main.go:34: January
+2023/10/07 12:03:32 main.go:34: January
+2023/10/07 12:03:32 main.go:34: January
+2023/10/07 12:03:32 main.go:34: January
+2023/10/07 12:03:32 main.go:34: January
+2023/10/07 12:03:32 main.go:34: January
+2023/10/07 12:03:32 main.go:34: January
+2023/10/07 12:03:32 main.go:34: January
+2023/10/07 12:03:32 main.go:31: log file created
+2023/10/07 12:03:32 main.go:32: Connected on SERVER sqlserver://localhost:1433
+2023/10/07 12:03:32 main.go:34: January
+2023/10/07 12:03:32 main.go:34: January
+2023/10/07 12:03:32 main.go:34: January
+2023/10/07 12:03:32 main.go:34: January
+2023/10/07 12:03:32 main.go:34: January
+2023/10/07 12:03:32 main.go:34: January
+2023/10/07 12:03:32 main.go:34: January
+2023/10/07 12:03:32 main.go:34: January
+2023/10/07 12:03:32 main.go:34: January
+2023/10/07 12:03:32 main.go:34: January
+2023/10/07 12:03:32 main.go:34: January
+2023/10/07 12:03:32 main.go:34: January
+2023/10/07 12:05:38 main.go:31: log file created
+2023/10/07 12:05:38 main.go:32: Connected on SERVER sqlserver://localhost:1433
+2023/10/07 12:05:38 main.go:34: January
+2023/10/07 12:05:38 main.go:34: January
+2023/10/07 12:05:38 main.go:34: January
+2023/10/07 12:05:38 main.go:34: January
+2023/10/07 12:05:38 main.go:34: January
+2023/10/07 12:05:38 main.go:34: January
+2023/10/07 12:05:38 main.go:34: January
+2023/10/07 12:05:38 main.go:34: January
+2023/10/07 12:05:38 main.go:34: January
+2023/10/07 12:05:38 main.go:34: January
+2023/10/07 12:05:38 main.go:34: January
+2023/10/07 12:05:38 main.go:34: January
+2023/10/07 12:05:39 main.go:31: log file created
+2023/10/07 12:05:39 main.go:32: Connected on SERVER sqlserver://localhost:1433
+2023/10/07 12:05:39 main.go:34: January
+2023/10/07 12:05:39 main.go:34: January
+2023/10/07 12:05:39 main.go:34: January
+2023/10/07 12:05:39 main.go:34: January
+2023/10/07 12:05:39 main.go:34: January
+2023/10/07 12:05:39 main.go:34: January
+2023/10/07 12:05:39 main.go:34: January
+2023/10/07 12:05:39 main.go:34: January
+2023/10/07 12:05:39 main.go:34: January
+2023/10/07 12:05:39 main.go:34: January
+2023/10/07 12:05:39 main.go:34: January
+2023/10/07 12:05:39 main.go:34: January
+2023/10/07 19:56:00 main.go:31: log file created
+2023/10/07 19:56:00 main.go:32: Connected on SERVER sqlserver://localhost:1433
+2023/10/07 19:56:00 main.go:34: January
+2023/10/07 19:56:00 main.go:34: January
+2023/10/07 19:56:00 main.go:34: January
+2023/10/07 19:56:00 main.go:34: January
+2023/10/07 19:56:00 main.go:34: January
+2023/10/07 19:56:00 main.go:34: January
+2023/10/07 19:56:00 main.go:34: January
+2023/10/07 19:56:00 main.go:34: January
+2023/10/07 19:56:00 main.go:34: January
+2023/10/07 19:56:00 main.go:34: January
+2023/10/07 19:56:00 main.go:34: January
+2023/10/07 19:56:00 main.go:34: January
